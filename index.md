@@ -12,11 +12,11 @@ I built a robotic arm that follows a user’s hand movements using a depth camer
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Zixuan Y | Henry M. Gunn High School | Electrical Engineering | Incoming Sophomore
+| Zixuan Y | Henry M. Gunn High School | Robotics | Incoming Sophomore
 
-**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
+<!-- **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.** -->
 
-![Headstone Image](logo.svg)
+![Headstone Image](me_with_my_project.png)
   
 # Final Milestone
 
